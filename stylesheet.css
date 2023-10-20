@@ -1,0 +1,17 @@
+.first {
+    background-color: hsl(35, 50%, 69%);
+}
+#heading {
+    text-align: center;
+    font-weight:bold;
+    font-size: 35px
+}
+.one, 
+.two,
+.three {
+    font-size: 24px;
+}
+#heading,
+.recipe {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}

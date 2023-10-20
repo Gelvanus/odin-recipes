@@ -1,0 +1,29 @@
+#background {
+    background-color: hsla(36, 65%, 75%, 0.865)
+}
+.heading {
+    font-size: 36px;
+    text-align:center
+}
+.subheading {
+    font-size: 28px;
+}
+img {
+    height: auto;
+    width: 360px
+}
+p, 
+li {
+    text-align: justify;
+    font-size: 17px;
+}
+h4 {
+    font-size: 20px
+}
+.heading, 
+.subheading, 
+p,
+li, 
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
