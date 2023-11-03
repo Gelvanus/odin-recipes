@@ -1,17 +1,53 @@
-.first {
-    background-color: hsl(35, 50%, 69%);
+body {
+    background-color:  #E7D7CB;
+    margin: 100px 150px;
 }
-#heading {
+.heading {
+    font-family: "Copperplate";
     text-align: center;
     font-weight:bold;
-    font-size: 35px
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    border: solid black 1.5px;
+    padding: 12px 10px; 
+    background-color: #F9F6F2;
+    margin-left: 100px; 
+    margin-right: 100px;
+
 }
 .one, 
 .two,
 .three {
     font-size: 24px;
 }
-#heading,
 .recipe {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-family: "Georgia";
+    margin: 0 auto; 
+}
+.one {
+    margin-bottom: 10px;
+    border: black solid 1.5px;
+    padding: 5px 8px;
+    text-align: center;
+    width: 160px; 
+    height: 25px; 
+    background-color: #F9F6F2; 
+    padding-top: 1.5px;
+}
+.two {
+    margin-bottom: 10px;
+    border: black solid 1.5px;
+    padding: 5px 8px;
+    text-align: center;
+    width: 315px; 
+    background-color: #F9F6F2;
+}
+.three {
+    margin-bottom: 10px;
+    border: black solid 1.5px;
+    padding: 5px 8px;
+    text-align: center;
+    width: 210px; 
+    background-color: #F9F6F2;
 }
